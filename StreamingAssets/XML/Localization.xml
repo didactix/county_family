@@ -1,0 +1,146 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<DataForLocalization xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	
+	<TitleText>Rodzina Liczyńskich</TitleText>
+	<HowOldText>Ile lat, może mieć</HowOldText>
+	
+	<CharacterList>
+	
+		<CharacterData ID = "MOTHER">
+			<Name>mama Hania</Name>
+			<Profession>architektka</Profession>
+		</CharacterData>
+		
+		<CharacterData ID = "FATHER">
+			<Name>tata Lucjan</Name>
+			<Profession>księgowy</Profession>
+		</CharacterData>
+		
+		<CharacterData ID = "GRANDMOTHER">
+			<Name>babcia Zosia</Name>
+			<Profession>ogrodniczka</Profession>
+		</CharacterData>
+		
+		<CharacterData ID = "GRANDFATHER">
+			<Name>dziadek Henryk</Name>
+			<Profession>lekarz</Profession>
+		</CharacterData>
+		
+		<CharacterData ID = "DOTHER">
+			<Name>Zuzia</Name>
+			<Profession></Profession>
+		</CharacterData>
+		
+		<CharacterData ID = "SON">
+			<Name>Kajtek</Name>
+			<Profession></Profession>
+		</CharacterData>
+		
+		<CharacterData ID = "CAT">
+			<Name>kotek Psotek</Name>
+			<Profession></Profession>
+		</CharacterData>
+		
+		<CharacterData ID = "DOG">
+			<Name>piesek Drapek</Name>
+			<Profession></Profession>
+		</CharacterData>
+		
+	</CharacterList>
+	
+	<ElementList>
+		
+		<ElementData ID = "blueprint">
+			<NameToShow>projekt</NameToShow>
+		</ElementData>
+		<ElementData ID = "color charts">
+			<NameToShow>wzorniki kolorów</NameToShow>
+		</ElementData>
+		<ElementData ID = "drawing compass">
+			<NameToShow>cyrkiel</NameToShow>
+		</ElementData>
+		<ElementData ID = "pencil">
+			<NameToShow>ołówek</NameToShow>
+		</ElementData>
+		<ElementData ID = "protractor">
+			<NameToShow>kątomierz</NameToShow>
+		</ElementData>
+		<ElementData ID = "set square">
+			<NameToShow>ekierka</NameToShow>
+		</ElementData>
+		<ElementData ID = "tape measure">
+			<NameToShow>taśma miernicza</NameToShow>
+		</ElementData>
+	
+		<ElementData ID = "calculator">
+			<NameToShow>kalkulator</NameToShow>
+		</ElementData>
+		<ElementData ID = "charts">
+			<NameToShow>wykresy</NameToShow>
+		</ElementData>
+		<ElementData ID = "file">
+			<NameToShow>teczka</NameToShow>
+		</ElementData>
+		<ElementData ID = "money">
+			<NameToShow>pieniądze</NameToShow>
+		</ElementData>
+		<ElementData ID = "questionnaire">
+			<NameToShow>kwestionariusz</NameToShow>
+		</ElementData>
+		<ElementData ID = "taxes">
+			<NameToShow>podatki</NameToShow>
+		</ElementData>	
+		
+		<ElementData ID = "garden hose">
+			<NameToShow>wąż ogrodowy</NameToShow>
+		</ElementData>
+		<ElementData ID = "garden spatula">
+			<NameToShow>łopatka ogrodowa</NameToShow>
+		</ElementData>
+		<ElementData ID = "gloves">
+			<NameToShow>rękawice</NameToShow>
+		</ElementData>
+		<ElementData ID = "leaf rake">
+			<NameToShow>grabie do liści</NameToShow>
+		</ElementData>
+		<ElementData ID = "pruner">
+			<NameToShow>sekator</NameToShow>
+		</ElementData>
+		<ElementData ID = "rain boots">
+			<NameToShow>kalosze</NameToShow>
+		</ElementData>
+		<ElementData ID = "seeds">
+			<NameToShow>nasiona</NameToShow>
+		</ElementData>
+		<ElementData ID = "shovel">
+			<NameToShow>łopata</NameToShow>
+		</ElementData>
+		<ElementData ID = "spray bottle">
+			<NameToShow>spryskiwacz</NameToShow>
+		</ElementData>
+		<ElementData ID = "watering can">
+			<NameToShow>konewka</NameToShow>
+		</ElementData>
+		
+		<ElementData ID = "medical questionnaire">
+			<NameToShow>kwestionariusz medyczny</NameToShow>
+		</ElementData>
+		<ElementData ID = "medicine">
+			<NameToShow>lekarstwo</NameToShow>
+		</ElementData>
+		<ElementData ID = "stethoscope">
+			<NameToShow>stetoskop</NameToShow>
+		</ElementData>
+		<ElementData ID = "syringe">
+			<NameToShow>strzykawka</NameToShow>
+		</ElementData>
+		<ElementData ID = "thermometer">
+			<NameToShow>termometr</NameToShow>
+		</ElementData>
+		<ElementData ID = "wound plaster">
+			<NameToShow>plaster opatrunkowy</NameToShow>
+		</ElementData>
+
+	</ElementList>
+	
+</DataForLocalization>
